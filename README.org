@@ -1,0 +1,20 @@
+#+LINK: course https://egghead.io/lessons/javascript-course-introduction-safer-javascript-with-the-maybe-type
+#+LINK: crocks https://evilsoft.github.io/crocks/
+#+LINK: parcel https://parceljs.org/
+#+LINK: git https://github.com/HaQadosch/EggHeadMaybeType.git
+
+* Setup
+** Documentation
+   The course is the [[course][egghead]] one and the Crocks lib has a nice [[crocks:][doc]] too.
+
+** Tools
+   [[parcel:][Parcel]] all the way!
+   All the work is saved in a git [[git:][repo]] for obvious reasons.
+
+** Installation
+*** Ignoring the autosave files from git system
+    In .git/info/exclude, add the line /*~/
+
+* Course intro
+* Understand the Maybe type
+
