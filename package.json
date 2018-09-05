@@ -1,0 +1,29 @@
+{
+  "name": "maybe",
+  "version": "1.0.0",
+  "description": "course on the crocks maybe type",
+  "main": "index.js",
+  "scripts": {
+      "test": ";",
+      "parcel": "parcel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaQadosch/EggHeadMaybeType.git"
+  },
+  "keywords": [
+    "crocks",
+    "maybe",
+    "ADT"
+  ],
+  "author": "Xavier Brinon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaQadosch/EggHeadMaybeType/issues"
+  },
+  "homepage": "https://github.com/HaQadosch/EggHeadMaybeType#readme",
+  "dependencies": {
+    "parcel": "^1.9.7",
+    "parcel-bundler": "^1.9.7"
+  }
+}
